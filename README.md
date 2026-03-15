@@ -1,4 +1,4 @@
-# 👋 Hello, I'm WuRAD
+# 👋 Hello, I'm MuRAD
 
 ### 🚀 Industrial Engineer | IoT Specialist | AI Developer
 
