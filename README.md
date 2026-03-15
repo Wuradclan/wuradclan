@@ -39,7 +39,7 @@ Secure firmware for PyCom microcontrollers implementing AWS Device Shadows for r
 ## 👔 Professional & Academic Journey
 
 * **Current:** AEC AI Specialist | *Collège de Bois-de-Boulogne*
-* **Industrial:** Employee at OCP (Phosboucraa Mine) | *Industrial Design & Mechanical Engineering*
+* **Industrial:** Employee Mining industry | *Industrial Design & Mechanical Engineering*
 * **Advisory:** Acting CTO & Technical Advisor | *CogniXr Health* (Investor-mandated technical roadmap and due diligence)
 * **Education:** * DESS in Information Technology (*University of Sherbrooke*, GPA: 3.84/4.00)
     * Undergraduate Certificate in Applied Cybersecurity (*McGill University*)
