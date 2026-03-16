@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Morad (WuRAD)
+# 👋 Hello, I'm WuRAD
 
 ### 🚀 Industrial Engineer | AI & IoT Specialist | Digital Health Innovator
 
@@ -50,7 +50,7 @@ I bridge the gap between **Physical Systems** and **Intelligent Software**. With
 
 ## 📫 Let's Connect
 
-* **Location:** Agadir, Morocco / Quebec, Canada (Citizen)
+
 * **Interests:** Real Estate Investment, Photography (Itaar Club), Hydroponics.
 * **Goal:** Pursuing Ph.D. research in AI-driven industrial safety and neuro-rehabilitation.
 
